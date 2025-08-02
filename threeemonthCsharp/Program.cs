@@ -184,9 +184,9 @@ namespace threeemonthCsharp
             //linq.Mark();
             //linq.Letter();
             //linq.Highmark();
-            asyncawait asyncawait = new asyncawait();
-            asyncawait.Method();
-            asyncawait.Methods();
+            //asyncawait asyncawait = new asyncawait();
+            //asyncawait.Method();
+            //asyncawait.Methods();
             Console.ReadKey();
 
             
