@@ -1,0 +1,7 @@
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\bin\Debug\threeemonthCsharp.exe.config
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\bin\Debug\threeemonthCsharp.exe
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\bin\Debug\threeemonthCsharp.pdb
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\obj\Debug\threeemonthCsharp.csproj.AssemblyReference.cache
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\obj\Debug\threeemonthCsharp.csproj.CoreCompileInputs.cache
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\obj\Debug\threeemonthCsharp.exe
+D:\C_sharp\threeemonthCsharp\threeemonthCsharp\obj\Debug\threeemonthCsharp.pdb

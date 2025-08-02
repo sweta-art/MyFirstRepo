@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_sharp\\threeemonthCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|d:\\c_sharp\\threeemonthcsharp\\threeemonthcsharp\\asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\asyncawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|D:\\C_sharp\\threeemonthCsharp\\threeemonthcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|d:\\c_sharp\\threeemonthcsharp\\threeemonthcsharp\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|D:\\C_sharp\\threeemonthCsharp\\threeemonthcsharp\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|D:\\C_sharp\\threeemonthCsharp\\threeemonthcsharp\\inputoutputfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\inputoutputfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|D:\\C_sharp\\threeemonthCsharp\\threeemonthcsharp\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|D:\\C_sharp\\threeemonthCsharp\\threeemonthcsharp\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|D:\\C_sharp\\threeemonthCsharp\\threeemonthcsharp\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CEF929-1B3C-4B85-8E77-B50A3A3CB3F9}|threeemonthCsharp\\threeemonthCsharp.csproj|solutionrelative:threeemonthcsharp\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\Program.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Program.cs",
+              "RelativeToolTip": "threeemonthCsharp\\Program.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAALwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:50:51.348Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asyncawait.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\asyncawait.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\asyncawait.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\asyncawait.cs",
+              "RelativeToolTip": "threeemonthCsharp\\asyncawait.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:16:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Linq.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Linq.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\Linq.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Linq.cs",
+              "RelativeToolTip": "threeemonthCsharp\\Linq.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwE8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:16:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contactmanager.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\contactmanager.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\contactmanager.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\contactmanager.cs",
+              "RelativeToolTip": "threeemonthCsharp\\contactmanager.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAmwCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:16:35.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loop.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\loop.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\loop.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\loop.cs",
+              "RelativeToolTip": "threeemonthCsharp\\loop.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:28:58.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputOutputFile.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\InputOutputFile.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\InputOutputFile.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\InputOutputFile.cs",
+              "RelativeToolTip": "threeemonthCsharp\\InputOutputFile.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:11:33.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Arrays.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\Arrays.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Arrays.cs",
+              "RelativeToolTip": "threeemonthCsharp\\Arrays.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAADwv9MAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:30:07.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Common.cs",
+              "RelativeDocumentMoniker": "threeemonthCsharp\\Common.cs",
+              "ToolTip": "D:\\C_sharp\\threeemonthCsharp\\threeemonthCsharp\\Common.cs",
+              "RelativeToolTip": "threeemonthCsharp\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:28:59.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
